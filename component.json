@@ -1,0 +1,24 @@
+{
+  "name": "dom-fit",
+  "repo": "nk-components/dom-fit",
+  "description": "Fit a DOM element into another",
+  "version": "0.0.1",
+  "keywords": [
+    "dom",
+    "fit",
+    "parent"
+  ],
+  "license": "MIT",
+  "development": {
+    "component/assert": "*"
+  },
+  "dependencies": {
+    "nk-components/math-fit": "*",
+    "nk-components/dom-transform": "*",
+    "avetisk/defaults": "~0.0.4",
+    "visionmedia/debug": "^1.0.0"
+  },
+  "scripts": [
+    "index.js"
+  ]
+}
