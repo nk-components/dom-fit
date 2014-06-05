@@ -41,7 +41,7 @@ function DomFit(target, parent, options, callback) {
      * the element before to add it to the DOM.
      *
      * Optional
-     * @type Boolean
+     * @type Float
      */
     defaultWidth: null,
     defaultHeight: null,
