@@ -9,9 +9,6 @@
     "parent"
   ],
   "license": "MIT",
-  "development": {
-    "component/assert": "*"
-  },
   "dependencies": {
     "nk-components/math-fit": "*",
     "nk-components/dom-transform": "*",
