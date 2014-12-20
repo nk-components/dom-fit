@@ -4,10 +4,16 @@ Fit a DOM element into another
 
 ## Installation
 
+With [npm](http://npmjs.org) do:
+
+```bash
+$ npm install dom-fit --save
+```
+
 Install with [component(1)](http://component.io):
 
 ```bash
-$ component install nk-components/dom-center
+$ component install nk-components/dom-fit
 ```
 
 # Usage
