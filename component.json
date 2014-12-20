@@ -2,7 +2,7 @@
   "name": "dom-fit",
   "repo": "nk-components/dom-fit",
   "description": "Fit a DOM element into another",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": [
     "dom",
     "fit",
